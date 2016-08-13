@@ -1,0 +1,8 @@
+# This file is supporting documentation to the Shiny app I developed as part of the developing data products course of the 
+# Coursera data scisnce specialization. In the depository along with this file, you will find the server.R and ui.R files 
+# necessary to run the app.
+
+# This quick app exemplifies the regression to the mean phenomenon first outlined by Galton.
+# It is doing this by 'predicting' the height of children based on their gender and the height of their parents.
+# It is really easy. Go ahead and play with the sliders. This is an easy empirical and visual way to see what
+# Galton meant when he scientifically outlined the notion of regression to the mean.
